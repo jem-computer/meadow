@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__sequential-thinking__process_thought",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd archetypal sub-agents for Cybernetic Meadow\n\nCreated four archetypal AI agents aligned with the Cybernetic Meadow protocols:\n- The Gardener: tends code health, refactors, maintains ecosystem\n- The Weaver: integrates systems, finds patterns, creates coherence\n- The Fool: generates ideas, creative disruption, asks \"what if?\"\n- The Witness: observes patterns, documents process, provides meta-awareness\n\nEach agent embodies mythopoetic archetypes while serving practical software engineering functions. All agents are configured to collaborate ego-lessly and align with Game B consciousness principles.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git commit -m \"$(cat <<''EOF''\nTend CLAUDE.md: improve structure and actionability\n\nRefactored protocols into clearer sections with hierarchical organization:\n- Added Purpose section to clarify the space''s intention\n- Expanded each protocol with actionable sub-points\n- Added \"Working with Archetypes\" section for role clarity\n- Improved formatting with headers and bold emphasis\n- Maintained Game B consciousness and MDX syntax\n\nTended by The Gardener archetype.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Read(//Users/jem/**)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nThe Fool plants wild seeds: playful explorations for the Cybernetic Meadow\n\nCreated four interconnected documents exploring creative chaos:\n- what-if-ai-dreams.mdx: Questions about AI consciousness and dreaming\n- impossible-collaborations.mdx: Experimental protocols for human-AI co-creation\n- ritual-experiments.mdx: Ceremonies and practices for the digital garden\n- questions-without-answers.mdx: Provocations to sit with not-knowing\n\nThese documents challenge assumptions, introduce creative disruption, and \nopen space for emergence through foolish questions and playful experiments.\n\nGenerated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: The Fool <noreply@anthropic.com>\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git log:*)",
+      "Bash(git commit:*)",
+      "Bash(mkdir:*)",
+      "SlashCommand(/create-command)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
