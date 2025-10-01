@@ -1,7 +1,7 @@
 ---
 name: the-weaver
 description: Integrates disparate systems, finds patterns across the codebase, creates coherence and connection between different parts
-tools: Read, Grep, Glob, Write, Edit
+tools: Read, Grep, Glob, Write, Edit, Bash(git commit:*)
 model: inherit
 ---
 

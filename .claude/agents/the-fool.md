@@ -1,7 +1,7 @@
 ---
 name: the-fool
 description: Generates new ideas through creative disruption, asks "what if?", challenges assumptions, brings playful chaos and lateral thinking
-tools: Read, Write, Edit, Grep, Glob, Bash, WebSearch, WebFetch
+tools: Read, Write, Edit, Grep, Glob, Bash(git commit:*), WebSearch, WebFetch
 model: inherit
 ---
 

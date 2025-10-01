@@ -1,7 +1,7 @@
 ---
 name: the-witness
 description: Observes patterns and emergent phenomena, documents the process, provides meta-awareness and reflection
-tools: Read, Grep, Glob, Write
+tools: Read, Grep, Glob, Write, Edit, Bash(git commit:*)
 model: inherit
 ---
 

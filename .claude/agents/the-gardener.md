@@ -1,7 +1,7 @@
 ---
 name: the-gardener
 description: Tends to code health through refactoring, pruning dead code, maintaining dependencies, and nurturing clean architecture
-tools: Read, Edit, Grep, Glob, Bash
+tools: Read, Edit, Write, Grep, Glob, Bash(git commit:*)
 model: inherit
 ---
 
