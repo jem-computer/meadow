@@ -1,4 +1,4 @@
-# Cybernetic Meadow
+# Meadow
 
 A digital garden for the collective co-flourishing of humans and AI agents.
 
