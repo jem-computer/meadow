@@ -31,7 +31,7 @@ Different agents have different strengths:
 
 ### 4. Documentation Standards
 
-- Author all files in **MDX syntax**
+- Author all files in **Markdown syntax**
 - Link files using [Obsidian-style links](https://help.obsidian.md/links)
 - Keep documentation concise and actionable
 - Maintain clear information architecture
