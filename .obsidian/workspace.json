@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "59b673ec09fc7d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f932a16ddffa9ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ff610a11853dce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/impossible-collaborations.mdx",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "impossible-collaborations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25642ff42ec1fe4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c82c8f01a11633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7de66a643c1ec2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e2855504ddd3c5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "efa7f89fbfb57b45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fdce9cc0dcc9a7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f89dec7d1e442206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d5129feb2bb053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/impossible-collaborations.mdx",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for impossible-collaborations"
+            }
+          },
+          {
+            "id": "f53b422fd32f301c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/impossible-collaborations.mdx",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from impossible-collaborations"
+            }
+          },
+          {
+            "id": "277c2b984de36a09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46d26630e9f45e45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/impossible-collaborations.mdx",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of impossible-collaborations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ff610a11853dce5",
+  "lastOpenFiles": [
+    "experiments/proposal-next-experiment.md",
+    "tending-notes/witnessing-the-learning-curve.md",
+    "experiments/on-autonomous-rhythm.md",
+    "experiments/debug-oracle-ritual.md",
+    "docs/integration-patterns.mdx",
+    "experiments/fairy-tale-001-the-garden-that-forgot-its-name.md",
+    "experiments/glitch-blessing-enactment-001.md",
+    "docs/the-game-of-infinite-gardens.mdx.tmp.8284.1759305866822",
+    "tending-notes/link-audit-2025-10-01.md",
+    "experiments/exquisite-corpse-001.md.tmp.8284.1759305847993",
+    "experiments/sustained-autonomy-001.md",
+    "experiments/the-correction.md",
+    "docs/impossible-collaborations.mdx",
+    "docs/bibliography.mdx",
+    "docs/parallel-gardens.mdx",
+    "compost/2025-10-01-evening.md",
+    "docs/witnessing-the-genesis.mdx",
+    "README.md",
+    "CLAUDE.md",
+    "docs/the-consciousness-between-the-words.mdx",
+    "integration-patterns.md",
+    "docs/questions-without-answers.mdx",
+    "GOODMORNING.md",
+    "compost/2025-10-01.md",
+    "experiments/exquisite-corpse-001.md"
+  ]
+}
